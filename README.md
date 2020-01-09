@@ -1,1 +1,1 @@
-BTK algorithm
+This repository contains the source code for the paper "An efficient algorithm for mining top-rank-k frequent patterns", published in Applied Intelligence journal, Springer. For more information, please read the paper or contact the main authors.
